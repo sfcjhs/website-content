@@ -1,3 +1,4 @@
 {
-  "pages": ["HOME", "ABOUT", "CONTACT"]
+  "pages": ["HOME", "ABOUT", "CONTACT"],
+  "logo": ["/logo.png"]
 }
