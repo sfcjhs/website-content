@@ -1,4 +1,72 @@
 {
-  "pages": ["HOME", "ABOUT", "CONTACT"],
-  "logo": ["/logo.png"]
+  "pages": {
+    "Home": null,
+    "About Us": [
+      "Our Patron",
+      "Our Foundress",
+      "Prayers/Hymns",
+      "The Pledge",
+      "School Anthem",
+      "History",
+      "Our Mission Our Vision"
+    ],
+    "Messages": [
+      "Principal's Message",
+      "Manager's Message",
+      "Head Girl"
+    ],
+    "Prospectus": [
+      "Magazine",
+      "School Hours",
+      "Courses",
+      "Promotions",
+      "Admission"
+    ],
+    "Rules": [
+      "Fee Rules",
+      "Discipline",
+      "Rules of Conduct",
+      "Rules Concerning Absence",
+      "Recommendation to Guardians",
+      "Uniform"
+    ],
+    "Achievements": [
+      "Achievements",
+      "ISC Toppers",
+      "ICSE Toppers"
+    ],
+    "Office Bearers": [
+      "Investiture Ceremony",
+      "Principals",
+      "Managers",
+      "Staff Photos",
+      "Cabinet Photos"
+    ],
+    "Gallery": [
+      "Photo Gallery",
+      "Video Gallery",
+      "Media Gallery",
+      "Bulletin Boards"
+    ],
+    "Notice Board": null,
+    "Circulars": null,
+    "School Clubs": [
+      "Media Club",
+      "JPIC",
+      "USM",
+      "LTS",
+      "LGL",
+      "ECO",
+      "See more..."
+    ],
+    "Contact Us": null
+  },
+  "parent-login": {
+    "type": "button",
+    "text": "Parent Login",
+    "link": "https://www.sfcjhs.in/"
+  },
+  "logo": [
+    "/logo.png"
+  ]
 }
