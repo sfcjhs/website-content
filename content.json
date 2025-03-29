@@ -66,10 +66,23 @@
     "text": "Parent Login",
     "link": "https://www.sfcjhs.in/"
   },
-  "logo": [
-    "/logo.png"
-  ],
-  "Mary_Ward": [
-    "/Mary_Ward.jpg"
-  ]
+  "images": {
+    "logo": {
+      "link": "/images/logo.png"
+    },
+    "Mary_Ward": {
+      "link": "/images/Mary_Ward.jpg"
+    },
+    "hero": {
+      "1": {
+        "link": "/images/hero/1.jpg"
+      },
+      "2": {
+        "link": "/images/hero/2.jpg"
+      },
+      "3": {
+        "link": "/images/hero/3.jpg"
+      }
+    }
+  }
 }
