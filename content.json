@@ -1,4 +1,5 @@
 {
+  "base": "https://raw.githubusercontent.com/sfcjhs/website-content/refs/heads/main/",
   "pages": {
     "Home": null,
     "About Us": [
