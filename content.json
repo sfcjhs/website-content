@@ -62,63 +62,47 @@
     ],
     "Contact Us": null
   },
-  "pages": {
-    "Home": {},
-    "About Us": {},
-    "Our Patron": {},
-    "Our Foundress": {},
-    "Prayers/Hymns": {},
-    "The Pledge": {},
-    "School Anthem": {},
-    "History": {},
-    "Our Mission Our Vision": {},
-    "Messages": {},
-    "Principal's Message": {},
-    "Manager's Message": {},
-    "Head Girl": {},
-    "Prospectus": {},
-    "Magazine": {},
-    "School Hours": {},
-    "Courses": {},
-    "Promotions": {},
-    "Admission": {},
-    "Rules": {},
-    "Fee Rules": {},
-    "Discipline": {},
-    "Rules of Conduct": {},
-    "Rules Concerning Absence": {},
-    "Recommendation to Guardians": {},
-    "Uniform": {},
-    "Achievements": {},
-    "ISC Toppers": {},
-    "ICSE Toppers": {},
-    "Office Bearers": {},
-    "Investiture Ceremony": {},
-    "Principals": {},
-    "Managers": {},
-    "Staff Photos": {},
-    "Cabinet Photos": {},
-    "Gallery": {},
-    "Photo Gallery": {},
-    "Video Gallery": {},
-    "Media Gallery": {},
-    "Bulletin Boards": {},
-    "Notice Board": {},
-    "Circulars": {},
-    "School Clubs": {},
-    "Media Club": {},
-    "JPIC": {},
-    "USM": {},
-    "LTS": {},
-    "LGL": {},
-    "ECO": {},
-    "See more...": {},
-    "Contact Us": {}
-  },
-  "parent-login": {
-    "type": "button",
-    "text": "Parent Login",
-    "link": "https://www.sfcjhs.in/"
+  "content": {
+    "quotes": [
+      {
+        "quote": "Education is the most powerful weapon which you can use to change the world.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "The mind is not a vessel to be filled, but a fire to be kindled",
+        "author": "Plutarch"
+      },
+      {
+        "quote": "The beautiful thing about learning is that no one can take it away from you.",
+        "author": "B.B. King"
+      }
+    ],
+    "about": "ST. FRANCIS' CONVENT INTER COLLEGE is one of the top-most English medium schools in Jhansi.Our school was founded in 1894 and it is affiliated to the ISC and ICSE Board and it has classes ranging from I to XII. Our School also includes pre-primary section.It is located in P.O. Box No. 1,67, Cantt, Jhansi, Uttar Pradesh - 284001.",
+    "patron_prayer": "Lord, make me an instrument of your peace.\nWhere there is hatred, let me sow love.\nWhere there is injury, pardon.\nWhere there is doubt faith.\nWhere there is despair hope,\nWhere there is darkness light, and Where there is sadness, joy.\nO Divine Master, grant that I may not so much seek\nTo be consoled as to console.\nTo be understood as to understand;\nTo be loved as to love.\nFor it is in giving that we receive.It is in pardoning that we are pardoned;\nAnd it is in dying that we were born to Eternal Life.",
+    "about_foundress": {
+      "short": "Mary Ward was born in Yorkshire, England in 1585 at a time of severe persecution of Catholics. Despite the sufferings, loss of property and even death of dear ones, many of her friends, relatives, and acquaintances remained faithful to their religion. Brought up in such an atmosphere of heroism and self-sacrifice, Mary grew up to be a woman of deep faith, steely determination and unswerving loyalty to the Church.\n\n“There is no such difference between men and women that women may not do great things.”\n- Mary Ward",
+      "long": "“There is no such difference between men and women that women may not do great things.”\n\n- Mary Ward\n\nMary Ward was born in Yorkshire, England in 1585 at a time of severe persecution of Catholics. Despite the sufferings, loss of property and even death of dear ones, many of her friends, relatives, and acquaintances remained faithful to their religion. Brought up in such an atmosphere of heroism and self-sacrifice, Mary grew up to be a woman of deep faith, steely determination and unswerving loyalty to the Church.\nAlready at the age of 15 she decided to be ‘wholly God’s’ but it was only when she reached the age of 21 that she was allowed to follow her dream of becoming a religious.\n\nIn 1606 she crossed the English Channel and went over to St. Omer (Belgium) where she joined a Poor Clare’s Convent as a lay sister only to discover later that she was not to be a Poor Clare. She left the Convent; after a few more years of search and struggle she returned to England where she spent her time visiting lapsed Catholics and prisoners, helping and supporting priests and arranging for them to administer the sacraments. One day in 1609 God showed her clearly that she was to do something else ‘more to the glory of God’ the exact nature of which still remained unclear to her.\n\nAttracted by her warm and charming personality and inspired by her heroic spirit and obvious love for the Lord, several young women of her circle of friends, relatives and acquaintances joined her. Together they went to the Continent where Mary opened a number of schools for children. Seeing the success and apostolic impact of her work, Church and Civil authorities invited her to open schools in their countries. Soon Mary began to think of establishing a religious order. But women religious of the time had to observe strict enclosure, a rule that limited their activities to little more than prayer and household chores.\n\nMary Ward was directed by God through a series of mystical experiences to find an Order modelled on the pattern of the Society of Jesus. She wanted her Congregation to be directly under the Pope and be free from enclosure, the obligation of the choir and the wearing of religious habit. These were novel ideas and not acceptable to the church and Mary’s initiatives brought in a storm of protests from all sides because her attempt to begin an apostolic Order for women went against the norms and practices of the time. But Mary, realizing the great opportunities open to women religious in defending and protecting Faith, refused to bow down to the pressures. As a result she had to suffer much and was branded as a heretic and imprisoned and her Congregation suppressed. Only a faithful band remained loyal to her vision. Despite all attempts to discredit her and destroy her work, she remained firm, utterly convinced of her mission. Though later she was exonerated from all charges of heresy and given permission to live with her companions in Rome, the ban forbidding her foundation was not revoked.\n\nDespite the many hurdles in the way of obtaining the approbation of her Institute, Mary placed her trust in the Lord as she says, “What is not done in one year can be done in another. We must wait for God Almighty’s leisure, for we must follow, not go before Him.”\n\nThe years of waiting and uncertainty took its toll on Mary’s health. In 1640 she returned to England where a civil war was raging. She and her companions sought refuge in Heworth, a village outside York. There she spent the last months of her life and on 30th January 1645 she breathed her last, pronouncing the name of Jesus three times.\n\nMary Ward is buried in the cemetery of the Anglican Church, Osbaldwick and her grave stone is still kept inside the church which bears the following inscription:\n\n\"To love the poor Persevere in the same, Live, die and rise with them Was all the aim of Mary Ward Who having lived 60 years and 8 days Died on 30th January 1645.\" "
+    },
+    "messages": {
+      "principal": {
+        "short": "Hearty Welcome to our School Website!\nThe website showcases the wealth of activities we offer to our students and gives them a wider audience for their wonderful work. We hope you enjoy your visit and return regularly to check out our latest news. As the principal of the school, I feel honoured and privileged to be part of the SFC family, where everyone is a learner and every day is an opportunity to learn and discover. It’s an exhilarating and challenging time to be at the helm of the school, when it is growing in leaps and bounds. Learning is an ever-continuous journey of experience through the ocean of life.Here I am at the helm with the Manager Sr. Digna as the chief Navigator, all the sisters as the light house, and the dynamic group of staff members as the efficient crew.",
+        "long": " Hearty Welcome to our School Website!\nThe website showcases the wealth of activities we offer to our students and gives them a wider audience for their wonderful work. We hope you enjoy your visit and return regularly to check out our latest news.\n\nAs the principal of the school, I feel honoured and privileged to be part of the SFC family, where everyone is a learner and every day is an opportunity to learn and discover. It’s an exhilarating and challenging time to be at the helm of the school, when it is growing in leaps and bounds. Learning is an ever-continuous journey of experience through the ocean of life. Here I am at the helm with the Manager Sr. Digna as the chief Navigator, all the sisters as the light house, and the dynamic group of staff members as the efficient crew. We offer each SFCian a smooth sailing through moral, spiritual and intellectual formation. I believe in the competency and excellence of my crew at par with our strategy and navigation in creating a healthy learning environment in the school.\n\nThe ever-echoing words of Mother Mary Ward “Be seekers of Truth and doers of Justice\" remain as the pillar of motivation as we the sisters hold the responsibility of leading the school. While academic excellence is our major thrust, we also prepare our students to be seekers of truth and doers of justice which is an essential ingredient in the realm of our society. Focusing on our School motto ‘JUSTITIA-CARITAS’ the SFCians are encouraged to channelize their potentials generatively for a peaceful and just world. With the joined effort of our staff and parents we groom our students to be holistic and competent adult to encounter any turbulence that come on their way in all walks of life’s sail.\nDear students, your world lies before you. There’s much to be learned and lived. Ride the waves and reach for the stars, for you are second to none. In all your difficulties we are with you and work hard till you succeed; for it’s a matter of your unique life. Harbour no malice and negativity and hold onto the values you receive in this temple of learning.\nWith great hope and confidence I join my predecessors and promise you a smooth sail of learning! May we continue to thrive and prosper under the care of St. Francis of Assisi the Patron of our school.",
+        "name": "Sr. Merlin"
+      },
+      "manager": {
+        "short": "“IT IS AN HONOUR TO WORK FOR GOD”\nLooking at our school today some might wonder what was its humble beginning like. The history of St. Francis’ Convent Inter College, Jhansi is the history of courage and missionary zeal of our sisters who took bold and careful steps for the development of the school. We offer a bouquet of gratitude to our pioneering sisters. Two Irish Missionaries started this school in the year 1898. After a few years the circumstances forced them to leave this place. Then in 1913 it was handed over to us. It is a Catholic Minority Institution under the management of the Congregation of Jesus founded by Venerable Mary Ward in 1609.",
+        "long": " “IT IS AN HONOUR TO WORK FOR GOD”\n\n- Mary Ward\n\nLooking at our school today some might wonder what was its humble beginning like. The history of St. Francis’ Convent Inter College, Jhansi is the history of courage and missionary zeal of our sisters who took bold and careful steps for the development of the school. We offer a bouquet of gratitude to our pioneering sisters. Two Irish Missionaries started this school in the year 1898. After a few years the circumstances forced them to leave this place. Then in 1913 it was handed over to us. It is a Catholic Minority Institution under the management of the Congregation of Jesus founded by Venerable Mary Ward in 1609. We rejoice in the Lord, and with Mother Mary Ward – our foundress and St. Francis of Assisi, the patron saint of our school, we say ‘the Almighty has done great things for us. Holy is His name’.\n\nIn this age of Globalisation, survival without new learning is unthinkable. So we must never forget to encourage every effort of the children to improve their every act of generosity and honesty and celebrate even the smallest of achievements. Today’s students grow up with digital technology and this technology has changed the way they view knowledge and access information. The role of teachers as transformational leaders is to transform students. , creating in them positive attitude towards life, developing a new vision for a meaningful life. We have a talented, dedicated, caring team of staff, each of whom works very hard to ensure that the abilities of the children in our care are nurtured and carefully developed.\nI pray to almighty that the school scales new heights in the coming years and shines in the galaxy of glory and fame. Let us look back with pride and move forward with enthusiasm. This website will give you an overall view of the school and a glimpse of the educational activities.\nWith all good wishes,",
+        "name": "Sr. Digna CJ"
+      },
+      "head girl": {
+        "short": "A leader is someone who can see the invisible, believe in the unbelievable and achieve the impossible.\nDear SFCIANS,\nI am honoured to serve as the Head Girl for the academic year 2024-25. As I reflect on my time at St. Francis' Convent Inter College, I am filled with gratitude for the opportunities and experiences I have had. I entered as a little girl and here I am wearing the crown of glory, responsibility and authority. It is a crown of service, a symbol of my commitment to this school, but this crown is not just mine to wear- it represents each one of us and the values we uphold together.\nSFC has always been a place where students are encouraged to explore their passions and develop their talents. From academic pursuits to extracurricular activities, we have a fitting environment and wealth of resources to help us succeed.",
+        "long": " A leader is someone who can see the invisible, believe in the unbelievable and achieve the impossible.\nDear SFCIANS,\nI am honoured to serve as the Head Girl for the academic year 2024-25. As I reflect on my time at St. Francis' Convent Inter College, I am filled with gratitude for the opportunities and experiences I have had. I entered as a little girl and here I am wearing the crown of glory, responsibility and authority. It is a crown of service, a symbol of my commitment to this school, but this crown is not just mine to wear- it represents each one of us and the values we uphold together.\nSFC has always been a place where students are encouraged to explore their passions and develop their talents. From academic pursuits to extracurricular activities, we have a fitting environment and wealth of resources to help us succeed.\n\nAs the crown of the student body, it is my role to lead with grace, to inspire with humility, to represent the spirit that binds us all and uphold the legacy of this prestigious institution.\nI believe that it is our responsibility as students to create a positive and inclusive environment for everyone in our school community. So, this year, let us strive to wear our invisible crowns everyday- by being kind, by reaching out to help others and by giving our best in everything we do. Together, we can shine brighter, reach higher and preserve the values of our foundress - Mother Mary Ward.\nWith pride and best wishes,",
+        "name": "Jaya Bhadoria"
+      }
+    },
+    "vision": "The integral human development of girls from every social background in the spirit of freedom, justice, sincerity and felicity so that they remain alive to the needs of the world with the knowledge which gives them power to act, and motivated by the love which gives them purpose and wisdom in their action.\n\nThus they live the fullness of life to which they are called.",
+    "mission": "We, the C.J sisters of the Delhi Province, in collaboration with the staff, renew our commitment with the pioneering spirit of our Foundress Venerable Mary Ward, to bring about the kingdom of God through our Education Ministry.\n\nWe aim at training our students to strive for personal excellence in order to take leadership in enabling their fellow citizens to create a just society where the underprivileged and exploited, especially women, children and marginalized are restored to their God-given dignity, rights and freedom.",
+    "history": "HISTORY (1818-1948) Excerpts from “An Historical Sketch of the Maltese Capuchin Mission” Silver Jubilee Souvenir (1923-1948)\nAn application for the convent school near church was made on the 13th October 1894 by St. Mary J. Patrick Brophy I. B. V. M. of Tara Hall Simla and this application on the 19th October of the same year was favoured by a grant of ground, 6 acres in extent at No. 67 Jhansi Cantt. On this site a building was erected between 1895-97 keeping the proprietorship of the estate reserved with all rights.\nThis school was finally opened in 1898 and entrusted to sisters Patricia and Teresa of the Institute of the Blessed Virgin May to educate the British Army residing in Jhansi.\n\nThe beginnings were indeed small and difficult; besides the two sisters having grown old and weak naturally could not make any progress. And hence the proprietorship of the school with its control management was on the 1st April 1913 formally made over to the Bishop of Allahabad. Fr. Patronus Gramigha, ofm Cap.,\nIn this state they remained 15 years until the congregation of the I. B. V. M. decided to take it over and in 1913 Rev. Mother Delphina with two Sisters Sr. M. Pauline and M. Aventine were sent there to take up the work.\nAt their arrival they found but the nucleus of the present establishment , which consisted of a hall with dilapidated furniture, the compound a jungle therefore they lived in the same Bogie in which they came, the funds a few rupees (only rupees 100/-), and the number of pupils thirteen.\n\nThen the work of progress began and after some years of trouble and hardship most cheerfully shouldered, Mother Delphine managed to enlarge the school building, at the right hand side, with a wing of several large and airy rooms, many smaller ones, a large chapel open for the public, and a high flagged verandah all round the house; and these were joined by a short corridor and a flight of stairs to the original building.\nIn 1927 further substantial extensions were made, and the impressive ceremony of the blessing and opening of the Chapel and new Convent on May 7th of the same year was a testimony of the dogged courage and perseverance of these first the large assembly of guests on that occasion, and drew a fitting analogy between St. Francis' ‘Convent and the “smallest of all seeds which soon became a great tree and sheltered all the birds of the air.\nIn 1935-36 Mother M. Immaculata made other additions to the original building, at the left hand side, and also in 1937-1938 extended the new wing of Mother Delphine with a few rooms and a verandah.\nThen came the time of Mother M. Margarita Mary and in 1939-40 during the unforgettable time of the great war world II , she managed to re-roof the verandah and construct a cycle-shed and finally in 1941 a construction of a lunch-shed completed the whole of the present convent school of St. Francis'.\nSucceeding years have borne witness to the great work of education being carried on. In fact, when in 1929 we took charge of Jhansi mission this school was already in possession of the rank of Middle school. In 1935, the school having stood the probation test was raised to the status of a high school.\nOn the 27th April 1938 the sisters, teachers and pupils of this school , once again extended a hearty welcome to His Lordship the Bishop of Allahabad, this time on the happy occasion of the silver jubilee of the congregation’s taking up charge of the school and forming a community. The Silver Jubilee of the school fell in Mother Delphine’s time viz., in the year 1923, the school being opened for the public in 1898.On that day His Lordship said Mass, administered Holy Communion and concluded the ceremony with benediction of the Blessed Sacrament. He expressed his keen appreciation of the work of the pioneers and his confidence in a still more fruitful future.\nIn these past fifty years, the noble work of progress, both in building and education has been so great that few looking on St. Francis’ Convent today would guesses its humble Beginnings."
   },
   "images": {
     "logo": {
@@ -129,14 +113,36 @@
     },
     "hero": {
       "1": {
-        "link": "/images/hero/1.jpg"
+        "link": "/images/Hero%20Section/1.jpg"
       },
       "2": {
-        "link": "/images/hero/2.jpg"
+        "link": "/images/Hero%20Section/2.jpg"
       },
       "3": {
-        "link": "/images/hero/3.jpg"
+        "link": "/images/Hero%20Section/3.jpg"
       }
     }
-  }
+  },
+  "contact": {
+    "email": [
+      "sfcicjhansi@gmail.com"
+    ],
+    "phone": [
+      {
+        "code": "+91",
+        "number": "7376338453"
+      },
+      {
+        "code": "+91",
+        "number": "9450071734"
+      }
+    ],
+    "address": {
+      "main": "P.O. Box No. 1, 67, Cantt, Jhansi, Uttar Pradesh",
+      "pin": "284001"
+    }
+  },
+  "website": "www.sfcjhs.org",
+  "patron": "St. Francis of Assisi",
+  "foundress": "Mary Ward"
 }
